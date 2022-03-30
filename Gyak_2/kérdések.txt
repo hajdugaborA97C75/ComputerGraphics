@@ -1,0 +1,21 @@
+Hogyan lehet átírni egy Descartes koordinátarendszerbeli pont koordinátáit homogén koordinátarendszerbe?
+
+Hogyan írható át egy homogén koordinátarendszerbeli pont Descartes koordinátarendszerbe?
+
+Hogyan írható fel egy adott  szög esetében az origó körüli elforgatás mátrixa?
+
+Hogyan néznek ki az eltolás, elforgatás és skálázás mátrixoknak az inverzei?
+
+Hogyan számíthatjuk ki két egyenes metszéspontját homogén koordinátarendszerben?
+
+Hogyan számíthatjuk ki két homogén koordinátarendszerbeli pont alapján a rajtuk áthaladó egyenest?
+
+Miből tudhatjuk, hogy egy homogén koordinátarendszerbeli pontnak nincs Descartes koordinátarendszerbeli megfelelője?
+
+Hogyan számíthatjuk ki egy összetett transzformáció transzformációs mátrixát az elemi transzformációs mátrixok ismeretében?
+
+Adjunk példát olyan esetre, amikor számít a transzformációk sorrendje!
+
+Adjunk példát olyan esetre, amikor nem számít a transzformációk sorrendje!
+
+Írjuk fel annak a térbeli transzformációnak a transzformációs mátrixát, amelyik a tér pontjait az X-Z síkra képzi le!
