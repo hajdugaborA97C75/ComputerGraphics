@@ -1,0 +1,1 @@
+Számítógépi grafika beadandónak szeretnék modellezni egy egyszerűbb felépítésű házat. Ebben szeretnék elhelyezni akár több olyan objektumot is amellyel majd interakcióba lehet lépni és ezáltal mozgatni ezeket. Természetesen az elvárt alap funkciókat is beleépítve a programba. A házban szabadon mozoghatunk majd, és lehetőség szerint a környezetét is szeretném elkészíteni.
